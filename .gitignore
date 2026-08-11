@@ -5,6 +5,21 @@
 *.userosscache
 *.sln.docstates
 *.userprefs
+*.vcxprog.user
+
+# C++ build outputs
+Debug/
+Release/
+x64/
+*.ilk
+*.obj
+*.log
+*.tlog
+*.idb
+*.pdb
+*.ipdb
+*.iobj
+*.ipch
 
 # Build results
 bin/
@@ -12,7 +27,6 @@ obj/
 [Bb]uild/
 *.dll
 *.exe
-*.pdb
 
 # NuGet
 packages/
